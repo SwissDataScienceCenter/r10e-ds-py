@@ -13,6 +13,7 @@ def strip_output_cells():
     for t in templates:
         strip_notebook_output_cells(t)
     strip_notebook_output_cells('01-Starting.ipynb')
+    strip_notebook_output_cells('02-Iterating.ipynb')
 
 
 def delete_tutorial_artifacts():
