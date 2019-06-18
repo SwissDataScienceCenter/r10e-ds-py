@@ -88,11 +88,6 @@ If you wish, you can install [Docker Desktop](https://www.docker.com/products/do
             <td></td>
         </tr>
         <tr>
-            <th>10 min</th>
-            <td>Preview</td>
-            <td style="text-align: left">What are we trying to accomplish? How does renku work?</td>
-        </tr>
-        <tr>
             <th>30 min</th>
             <td>Starting</td>
             <td style="text-align: left">Starting a project, importing data, building a workflow</td>
@@ -103,9 +98,9 @@ If you wish, you can install [Docker Desktop](https://www.docker.com/products/do
             <td style="text-align: left">Updating code and data to improve analysis</td>
         </tr>
         <tr>
-            <th>20 min</th>
-            <td>Reflection</td>
-            <td style="text-align: left">What is the benefit? How much effort was it? Viewing, sharing, reusing artifacts</td>
+            <th>30 min</th>
+            <td>Details and Reflection</td>
+            <td style="text-align: left">What is the benefit? How much effort was it? How do we view, share, and reuse artifacts? How do things work under the covers?</td>
         </tr>
         <tr>
             <th></th>
