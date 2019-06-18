@@ -4,7 +4,7 @@ If you use docker, you can use the provided Dockerfile to create an environment 
 
 0. Clone the git repository `git clone https://github.com/SwissDataScienceCenter/r10e-ds-py.git`
 1. Enter the directory `cd r10e-ds-py`
-2. Build the dockerfile `docker build -t r10eds`
+2. Build the dockerfile `docker build -t r10eds .`
 
 ## Use the docker environment
 
