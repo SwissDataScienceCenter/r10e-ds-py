@@ -8,7 +8,7 @@ The expectation of reproducibility in scientific work has been long established,
 
 # Set Up
 
-To avoid conflicts in dependencies, we recommend creating a dedicated environment for this tutorial. You can do this using any tool you like, for example [pipenv](https://pipenv.readthedocs.io/en/latest/) or [conda](https://docs.conda.io/en/latest/miniconda.html). We provide instructions based on conda here. If you use docker, we also provide a Dockerfile with [instructions for set up and use](README-docker.md). If you prefer to use something else, you will need to ensure that `git`, `git-lfs`, and `curl` are installed in your environment, but you should be able to pip install the requirements.txt file for the rest.
+To avoid conflicts in dependencies, we recommend creating a dedicated environment for this tutorial. You can do this using any tool you like, for example [pipenv](https://pipenv.readthedocs.io/en/latest/) or [conda](https://docs.conda.io/en/latest/miniconda.html). We provide instructions based on conda here. If you use docker, we also provide a Dockerfile with [instructions for set up and use](README-docker.md). If you prefer to use something else, you will need to ensure that `git`, `git-lfs`, `curl`, and `node` are installed in your environment, but you should be able to pip install the requirements.txt file for the rest.
 
 ## Step 1: Create Environment
 
