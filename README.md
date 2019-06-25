@@ -2,6 +2,14 @@
 
 Materials for the [Reproducible Data Science in Python](https://www.scipy2019.scipy.org/tutorial/Reproducible-Data-Science-in-Python) tutorial at SciPy 2019.
 
+# Versions
+
+| Date       | Change                         |
+| ---------- | ------------------------------ |
+| 2019-06-18 | Initial version                |
+| 2019-06-25 | Added instructions for windows |
+
+
 # Description
 
 The expectation of reproducibility in scientific work has been long established, and, increasingly, communities and funding sources are actually demanding it. Within the Python ecosystem, there are a variety of tools available to support reproducible data science, but choosing and using one is not always straightforward. In this tutorial, we will take a closer look at the concept of _reproducibility_, and, we will examine the technologies that provide building blocks and survey the landscape of tools. We spend the majority of the time looking at two solutions in particular, [Renku](https://renkulab.io) and [Code Ocean](https://codeocean.com), and work through end-to-end scenarios in both.
@@ -15,7 +23,7 @@ To avoid conflicts in dependencies, we recommend creating a dedicated environmen
 **Create environment using conda**
 
 0. If you do not yet have conda, you should first [install miniconda for your platform](https://conda.io/miniconda.html).
-1. Download the file https://raw.githubusercontent.com/SwissDataScienceCenter/r10e-ds-py/master/environment.yml
+1. Download the [conda environment macOS/Linux](https://raw.githubusercontent.com/SwissDataScienceCenter/r10e-ds-py/master/environment.yml) or [conda environment Windows](https://raw.githubusercontent.com/SwissDataScienceCenter/r10e-ds-py/master/windows/environment.yml)
 2. In the directory where `environment.yml` is located, execute `conda env create`
 
 **Verifying the setup**
@@ -23,6 +31,9 @@ To avoid conflicts in dependencies, we recommend creating a dedicated environmen
 2. Run `git --version` -- the result should be "git version 2.21.0" (or newer)
 3. Run `git lfs --version` -- the result should be "git-lfs/2.7.1" (or newer)
 4. Run `renku --version` -- the result should be "0.5.0" (or newer)
+
+**Additional setup on Windows**
+On Windows, an additional step is necessary. Renku creates symbolic links, and on Windows it is necessary to have privileges in order to do that. Follow these instructions from from [StackExchange/Super User](https://superuser.com/questions/124679/how-do-i-create-a-link-in-windows-7-home-premium-as-a-regular-user/125981#125981) to give your user these privileges.
 
 ## Step 2: Clone the tutorial repository
 
