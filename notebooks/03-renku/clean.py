@@ -9,7 +9,7 @@ def strip_notebook_output_cells(notebook):
 
 def strip_output_cells():
     """Strip output cells from the notebooks"""
-    templates = glob.glob("templates/*")
+    templates = glob.glob("templates/*.ipynb")
     for t in templates:
         strip_notebook_output_cells(t)
     strip_notebook_output_cells('01-Starting.ipynb')
