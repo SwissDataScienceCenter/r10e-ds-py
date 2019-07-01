@@ -4,10 +4,11 @@ Materials for the [Reproducible Data Science in Python](https://www.scipy2019.sc
 
 # Versions
 
-| Date       | Change                         |
-| ---------- | ------------------------------ |
-| 2019-06-18 | Initial version                |
-| 2019-06-25 | Added instructions for windows |
+| Date       | Change                                               |
+| ---------- | ---------------------------------------------------- |
+| 2019-06-18 | Initial version                                      |
+| 2019-06-25 | Added instructions for windows                       |
+| 2019-07-01 | Updated environment.yml to work on conda 4.7 and 4.6 |
 
 
 # Description
