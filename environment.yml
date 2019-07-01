@@ -3,36 +3,34 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - bzip2=1.0.6=h14c3975_1002
-  - ca-certificates=2019.6.16=hecc5488_0
-  - certifi=2019.3.9=py37_0
-  - curl=7.64.1=hf8cf82a_0
-  - expat=2.2.5=hf484d3e_1002
-  - gettext=0.19.8.1=hc5be6a0_1002
-  - git=2.21.0=pl526h2882143_0
-  - git-lfs=2.7.2=0
-  - krb5=1.16.3=h05b26f9_1001
-  - libcurl=7.64.1=hda55be3_0
-  - libedit=3.1.20181209=hc058e9b_0
-  - libffi=3.2.1=he1b5a44_1006
-  - libgcc-ng=8.2.0=hdf63c60_1
-  - libiconv=1.15=h516909a_1005
-  - libssh2=1.8.2=h22169c7_2
-  - libstdcxx-ng=8.2.0=hdf63c60_1
-  - ncurses=6.1=hf484d3e_1002
-  - nodejs=11.14.0=he1b5a44_1
-  - openssl=1.1.1b=h14c3975_1
-  - perl=5.26.2=h516909a_1006
-  - pip=19.1.1=py37_0
-  - psutil=5.6.2=py37h516909a_0
-  - python=3.7.3=h5b0a415_0
-  - readline=7.0=hf8c457e_1001
-  - setuptools=41.0.1=py37_0
-  - sqlite=3.28.0=h8b20d00_0
-  - tk=8.6.9=hed695b0_1002
-  - wheel=0.33.4=py37_0
-  - xz=5.2.4=h14c3975_1001
-  - zlib=1.2.11=h14c3975_1004
+  - bzip2
+  - ca-certificates
+  - certifi
+  - curl
+  - expat
+  - gettext
+  - git
+  - git-lfs
+  - krb5
+  - libcurl
+  - libedit
+  - libffi
+  - libiconv
+  - libssh2
+  - ncurses
+  - nodejs
+  - openssl
+  - perl
+  - pip
+  - psutil
+  - python
+  - readline
+  - setuptools
+  - sqlite
+  - tk
+  - wheel
+  - xz
+  - zlib
   - pip:
     - ansiwrap==0.8.4
     - appdirs==1.4.3
