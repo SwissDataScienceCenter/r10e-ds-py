@@ -10,7 +10,7 @@ If you use docker, you can use the provided Dockerfile to create an environment 
 
 Execute
 ```bash
-docker run --rm -it -p"8888:8888" -p"8889:8889" -v$(pwd):/r10eds r10eds
+docker run --rm -it -p"8888:8888" -v$(pwd):/r10eds r10eds
 conda activate r10eds
 jupyter lab --ip=0.0.0.0 --no-browser --allow-root
 ```
