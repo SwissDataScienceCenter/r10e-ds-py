@@ -3,34 +3,13 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - bzip2
-  - ca-certificates
-  - certifi
-  - curl
-  - expat
-  - gettext
-  - git
-  - git-lfs
-  - krb5
-  - libcurl
-  - libedit
-  - libffi
-  - libiconv
-  - libssh2
-  - ncurses
-  - nodejs
-  - openssl
-  - perl
-  - pip
-  - psutil
-  - python
-  - readline
-  - setuptools
-  - sqlite
-  - tk
-  - wheel
-  - xz
-  - zlib
+  - python=3.7.*
+  - curl=7.64.*
+  - git>=2.21.*
+  - git-lfs=2.7.*
+  - nodejs=11.14.*
+  - pip=19.1.*
+  - psutil>=5.6
   - pip:
     - ansiwrap==0.8.4
     - appdirs==1.4.3
@@ -132,4 +111,3 @@ dependencies:
     - webencodings==0.5.1
     - werkzeug==0.15.4
     - widgetsnbextension==3.4.2
-
