@@ -12,8 +12,9 @@ def strip_output_cells():
     templates = glob.glob("templates/*.ipynb")
     for t in templates:
         strip_notebook_output_cells(t)
-    strip_notebook_output_cells('01-Starting.ipynb')
-    strip_notebook_output_cells('02-Iterating.ipynb')
+    metanbs = glob.glob("./*.ipynb")
+    for t in metanbs:
+        strip_notebook_output_cells(t)        
 
 
 def delete_tutorial_artifacts():
