@@ -1,0 +1,2 @@
+%cd renku-tutorial-diamonds
+!renku dataset create diamonds

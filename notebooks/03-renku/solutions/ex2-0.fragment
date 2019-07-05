@@ -1,0 +1,17 @@
+%cp ../templates/00-FilterDiamonds.ipynb ./notebooks/
+!git add notebooks/00-FilterDiamonds.ipynb
+!git commit -m"Added notebook for filtering."
+!renku run papermill \
+  -p input_path data/diamonds/diamonds.csv \
+  -p output_path data/output/diamonds-filtered.csv \
+  notebooks/00-FilterDiamonds.ipynb \
+  notebooks/00-FilterDiamonds.ran.ipynb
+  
+%cp ../templates/01-CountDiamonds.ipynb ./notebooks/
+!git add notebooks/01-CountDiamonds.ipynb
+!git commit -m"Added notebook for counting."
+!renku run papermill \
+  -p input_path data/output/diamonds-filtered.csv \
+  -p output_path "data/output/diamonds-count.txt" \
+  notebooks/01-CountDiamonds.ipynb \
+  notebooks/01-CountDiamonds.ran.ipynb
