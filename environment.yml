@@ -10,6 +10,7 @@ dependencies:
   - nodejs=11.14.*
   - pip=19.1.*
   - psutil>=5.6
+  - python-graphviz
   - pip:
     - ansiwrap==0.8.4
     - appdirs==1.4.3

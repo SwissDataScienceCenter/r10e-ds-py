@@ -10,6 +10,7 @@ Materials for the [Reproducible Data Science in Python](https://www.scipy2019.sc
 | 2019-06-25 | Added instructions for windows                       |
 | 2019-07-01 | Updated environment.yml to work on conda 4.7 and 4.6 |
 | 2019-07-02 | Updated environment.yml to work be cross-platform    |
+| 2019-07-04 | Added dot as a dependency                            |
 
 
 # Description
