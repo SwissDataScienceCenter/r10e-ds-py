@@ -142,3 +142,5 @@ If you wish, you can install [Docker Desktop](https://www.docker.com/products/do
 # Acknowledgements
 
 Many thanks to Erica Moreira, Laura Levin-Gleba, and Maja Garbulinksa from the Harvard School of Public Health for their helpful comments and suggestions!
+
+The icons used are from [Icons8](https://icons8.com/).
