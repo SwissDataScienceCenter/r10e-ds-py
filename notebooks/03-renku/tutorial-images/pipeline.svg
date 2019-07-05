@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="105.5 117.5 584.5 73.5" width="584.5" height="73.5">
+  <defs>
+    <font-face font-family="Avenir Next" font-size="16" panose-1="2 11 5 3 2 2 2 2 2 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="468" cap-height="708" ascent="1e3" descent="-365.9973" font-weight="400">
+      <font-face-src>
+        <font-face-name name="AvenirNext-Regular"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.10.2 
+    <dc:date>2019-07-05 23:59:20 +0000</dc:date>
+  </metadata>
+  <g id="pipeline" fill="none" stroke-opacity="1" fill-opacity="1" stroke="none" stroke-dasharray="none">
+    <title>pipeline</title>
+    <g id="pipeline: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_4">
+        <rect x="106" y="118" width="260" height="72.5" fill="white"/>
+        <rect x="106" y="118" width="260" height="72.5" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(111 143.25)" fill="black">
+          <tspan font-family="Avenir Next" font-size="16" font-weight="400" fill="black" x="13.504" y="16">Select only flights to Austin, TX</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5">
+        <rect x="429.5" y="118" width="260" height="72.5" fill="white"/>
+        <rect x="429.5" y="118" width="260" height="72.5" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(434.5 143.25)" fill="black">
+          <tspan font-family="Avenir Next" font-size="16" font-weight="400" fill="black" x="38.104" y="16">Count number of flights</tspan>
+        </text>
+      </g>
+      <g id="Line_6">
+        <line x1="366" y1="154.25" x2="419.6" y2="154.25" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

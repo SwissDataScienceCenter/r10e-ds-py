@@ -1,6 +1,0 @@
-!git add notebooks/03-Analysis.ipynb
-!git commit -m"Compute solution to question about flight delays to Austin"
-!renku run papermill \
-  -p input_path data/output/2019-01-flights-preprocessed.csv \
-  notebooks/03-Analysis.ipynb \
-  notebooks/03-Analysis.ran.ipynb

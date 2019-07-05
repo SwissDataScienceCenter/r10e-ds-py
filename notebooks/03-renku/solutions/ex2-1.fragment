@@ -1,0 +1,5 @@
+!git status
+!git add notebooks/00-FilterDiamonds.ipynb
+!git commit -m"Corrected filter to 'Ideal' (was accidentally 'Premium')"
+!renku status
+!renku update

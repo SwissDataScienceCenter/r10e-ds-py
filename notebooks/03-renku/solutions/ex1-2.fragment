@@ -1,0 +1,1 @@
+!renku dataset add diamonds https://github.com/seaborn/seaborn-data/raw/master/diamonds.csv
