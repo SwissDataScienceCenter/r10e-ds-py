@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="-341 -58 699 397" width="699" height="397">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="-341 -58 699 397" width="699" height="397">
   <defs>
     <filter id="Shadow" filterUnits="userSpaceOnUse" x="-341" y="-58">
       <feGaussianBlur in="SourceAlpha" result="blur" stdDeviation="1.308"/>
@@ -25,9 +25,9 @@
     </font-face>
   </defs>
   <metadata> Produced by OmniGraffle 7.10.2 
-    <dc:date>2019-07-02 14:02:12 +0000</dc:date>
+    <dc:date>2019-07-05 11:09:37 +0000</dc:date>
   </metadata>
-  <g id="Reproducibility" stroke="none" stroke-opacity="1" fill-opacity="1" fill="none" stroke-dasharray="none">
+  <g id="Reproducibility" fill="none" stroke-opacity="1" fill-opacity="1" stroke="none" stroke-dasharray="none">
     <title>Reproducibility</title>
     <g id="Reproducibility: Layer 1">
       <title>Layer 1</title>
@@ -191,7 +191,7 @@
         <line x1="-246.54944" y1="74" x2="-138.10421" y2="182.8609" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
       <g id="Line_75">
-        <line x1="-109" y1="242.835" x2="-110.40293" y2="273.11382" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <line x1="-104.41717" y1="242.835" x2="-104.6989" y2="263.77117" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
       <g id="Group_96">
         <g id="Graphic_99">
@@ -256,7 +256,7 @@
         <line x1="-73" y1="211.835" x2="110.6525" y2="211.835" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
       <g id="Line_77">
-        <line x1="149.5525" y1="242.835" x2="148.14957" y2="273.11382" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <line x1="155.28718" y1="242.835" x2="155.96953" y2="271.6271" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
       <g id="Graphic_100">
         <rect x="-30.486047" y="98.65515" width="72.944" height="30" fill="white"/>
@@ -310,6 +310,12 @@
         <text transform="translate(-2.03575 281.67)" fill="black">
           <tspan font-family="Avenir Next" font-size="32" font-weight="700" fill="black" x="0" y="32">==</tspan>
         </text>
+      </g>
+      <g id="Line_108">
+        <line x1="-103.30872" y1="147" x2="-103.59805" y2="174.13573" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_109">
+        <line x1="153.92953" y1="144.5204" x2="154.2036" y2="174.13555" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
     </g>
   </g>
