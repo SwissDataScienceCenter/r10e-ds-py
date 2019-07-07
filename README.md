@@ -15,6 +15,7 @@ Presenters: Ramakrishnan Chandrasekhar (Renku) and Xu Fei (Code Ocean)
 | 2019-07-04 | Added dot as a dependency                            |
 
 
+
 # Description
 
 The expectation of reproducibility in scientific work has been long established, and, increasingly, communities and funding sources are actually demanding it. Within the Python ecosystem, there are a variety of tools available to support reproducible data science, but choosing and using one is not always straightforward. In this tutorial, we will take a closer look at the concept of _reproducibility_, and, we will examine the technologies that provide building blocks and survey the landscape of tools. We spend the majority of the time looking at two solutions in particular, [Renku](https://renkulab.io) and [Code Ocean](https://codeocean.com), and work through end-to-end scenarios in both.
@@ -22,6 +23,8 @@ The expectation of reproducibility in scientific work has been long established,
 # Set Up
 
 To avoid conflicts in dependencies, we recommend creating a dedicated environment for this tutorial. You can do this using any tool you like, for example [pipenv](https://pipenv.readthedocs.io/en/latest/) or [conda](https://docs.conda.io/en/latest/miniconda.html). We provide instructions based on conda here. If you use docker, we also provide a Dockerfile with [instructions for set up and use](README-docker.md). If you prefer to use something else, you will need to ensure that `git`, `git-lfs`, `curl`, and `node` are installed in your environment, but you should be able to pip install the requirements.txt file for the rest.
+
+And, if you do not wish to set up an environment on your computer, you can [follow these instructions to use Renkulab](README-renkulab.md).
 
 ## Step 1: Create Environment
 
