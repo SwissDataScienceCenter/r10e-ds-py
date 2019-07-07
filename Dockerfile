@@ -1,8 +1,11 @@
-FROM continuumio/miniconda3:4.6.14
+FROM renku/singleuser:0.3.4-renku0.5.0
 
-WORKDIR /r10eds
-COPY ./environment.yml /r10eds
+# Uncomment and adapt if code is to be included in the image
+# COPY src /code/src
 
-RUN conda env create
-
-COPY ./docker/gitconfig /root/.gitconfig
+# install the python dependencies
+COPY requirements.txt environment.yml /tmp/
+RUN conda env update -q -f /tmp/environment.yml && \
+    /opt/conda/bin/pip install -r /tmp/requirements.txt && \
+    conda clean -y --all && \
+    conda env export -n "root"
