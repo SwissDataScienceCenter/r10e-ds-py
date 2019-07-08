@@ -1,0 +1,5 @@
+!renku run papermill \
+  -p input_path data/output/diamonds-filtered.csv \
+  -p output_path data/output/diamonds-count.txt \
+  notebooks/01-CountDiamonds.ipynb \
+  notebooks/01-CountDiamonds.ran.ipynb

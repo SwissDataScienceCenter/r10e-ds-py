@@ -1,0 +1,2 @@
+!git add notebooks/00-FilterDiamonds.ipynb
+!git commit -m"Added notebook for filtering."
