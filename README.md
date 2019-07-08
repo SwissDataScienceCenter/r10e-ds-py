@@ -24,7 +24,7 @@ The expectation of reproducibility in scientific work has been long established,
 
 To avoid conflicts in dependencies, we recommend creating a dedicated environment for this tutorial. You can do this using any tool you like, for example [pipenv](https://pipenv.readthedocs.io/en/latest/) or [conda](https://docs.conda.io/en/latest/miniconda.html). We provide instructions based on conda here. If you use docker, we also provide a Dockerfile with [instructions for set up and use](README-docker.md). If you prefer to use something else, you will need to ensure that `git`, `git-lfs`, `curl`, and `node` are installed in your environment, but you should be able to pip install the requirements.txt file for the rest.
 
-And, if you do not wish to set up an environment on your computer, you can [follow these instructions to use Renkulab](README-renkulab.md).
+And, if you do not wish to set up an environment on your computer, you can [follow these instructions to use Renkulab](README-renkulab.md); or you can run the tutorial  on [MyBinder](https://mybinder.org/v2/gh/SwissDataScienceCenter/r10e-ds-py/binder).
 
 ## Step 1: Create Environment
 
