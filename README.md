@@ -2,7 +2,7 @@
 
 Materials for the [Reproducible Data Science in Python](https://www.scipy2019.scipy.org/tutorial/Reproducible-Data-Science-in-Python) tutorial at SciPy 2019.
 
-Presenters: Ramakrishnan Chandrasekhar (Renku) and Xu Fei (Code Ocean)
+Presenters: Chandrasekhar Ramakrishnan (Swiss Data Science Center) and Xu Fei (Code Ocean)
 
 # Versions
 
