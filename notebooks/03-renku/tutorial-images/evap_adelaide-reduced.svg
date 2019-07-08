@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="-1552 -137 1138 1007" width="1138" height="1007">
+  <defs>
+    <font-face font-family="Helvetica" font-size="16" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="532.22656" cap-height="719.7266" ascent="770.0195" descent="-229.98047" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Helvetica-Bold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica" font-size="14" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="522.9492" cap-height="717.28516" ascent="770.0195" descent="-229.98047" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Helvetica"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Helvetica" font-size="14" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="532.22656" cap-height="719.7266" ascent="770.0195" descent="-229.98047" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Helvetica-Bold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica" font-size="14" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="-857.1429" x-height="522.9492" cap-height="717.28516" ascent="770.0195" descent="-229.98047" font-style="italic" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Helvetica-Oblique"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica" font-size="14" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="-857.1429" x-height="539.5508" cap-height="719.7266" ascent="770.0195" descent="-229.98047" font-style="italic" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Helvetica-BoldOblique"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.10.2 
+    <dc:date>2019-03-30 00:04:26 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_2" fill="none" stroke-opacity="1" fill-opacity="1" stroke="none" stroke-dasharray="none">
+    <title>Code Removed</title>
+    <rect fill="white" x="-1552" y="-137" width="1138" height="1007"/>
+    <g id="Canvas_2: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_3">
+        <rect x="-1054.1702" y="96.64286" width="300" height="47.857143" fill="white"/>
+        <rect x="-1054.1702" y="96.64286" width="300" height="47.857143" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-1049.1702 102.57143)" fill="black">
+          <tspan font-family="Helvetica" font-size="16" font-weight="700" fill="black" x="20.105469" y="15">compile model / run optimization</tspan>
+          <tspan font-family="Helvetica" font-size="14" font-weight="400" fill="black" x="51.22461" y="33">#f859b:: bash run_vom.sh […]</tspan>
+        </text>
+      </g>
+      <g id="Line_22">
+        <path d="M -1151.0521 58.83013 C -1108.7744 69.40394 -1056 82.61323 -1009.5285 94.2407" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_24">
+        <rect x="-603.46655" y="27.07143" width="172.59277" height="27" fill="white"/>
+        <rect x="-603.46655" y="27.07143" width="172.59277" height="27" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-598.46655 32.07143)" fill="black">
+          <tspan font-family="Helvetica" font-size="14" font-weight="700" fill="black" x="0" y="14">/src/VOM/VOM_Fortran/*</tspan>
+        </text>
+      </g>
+      <g id="Line_25">
+        <path d="M -603.46655 54.07143 C -635.2625 60.58593 -713.6532 78.38724 -785.3243 94.4759" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_28">
+        <path d="M -854.7453 59.73895 C -861.8873 68.53265 -870.4521 79.07974 -878.4772 88.9605" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_34">
+        <rect x="-715.1702" y="586.2857" width="300" height="60.57143" fill="white"/>
+        <rect x="-715.1702" y="586.2857" width="300" height="60.57143" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-710.1702 589.0714)" fill="black">
+          <tspan font-family="Helvetica" font-size="16" font-weight="700" fill="black" x="20.964844" y="15">calculate min/max boundaries of </tspan>
+          <tspan font-family="Helvetica" font-size="16" font-weight="700" fill="black" x="17.402344" y="34">evaporation / derive uncertainties</tspan>
+          <tspan font-family="Helvetica" font-size="14" font-weight="400" fill="black" x="13.476562" y="52">#4df05::python3 proc_scevom_etot.py […]</tspan>
+        </text>
+      </g>
+      <g id="Line_38">
+        <path d="M -756.6887 549.06666 C -728.3958 559.0387 -693.176 571.4528 -660.4274 582.996" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_41">
+        <rect x="-1374.1702" y="-62.35714" width="300" height="47.857143" fill="white"/>
+        <rect x="-1374.1702" y="-62.35714" width="300" height="47.857143" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-1369.1702 -56.42857)" fill="black">
+          <tspan font-family="Helvetica" font-size="16" font-weight="700" fill="black" x="59.652344" y="15">generate model inputs</tspan>
+          <tspan font-family="Helvetica" font-size="14" font-weight="400" fill="black" x="11.135254" y="33">#94b34::python3 write_dailyweather.py […] </tspan>
+        </text>
+      </g>
+      <g id="Line_42">
+        <path d="M -1334.4493 -98.4938 C -1317.079 -89.03273 -1296.0015 -77.5586 -1276.7778 -67.09215" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_45">
+        <path d="M -1111.3001 -99.49436 C -1129.1397 -89.84134 -1151.1926 -77.9109 -1171.2401 -67.06553" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_51">
+        <rect x="-959.1702" y="414.2857" width="300" height="60.57143" fill="white"/>
+        <rect x="-959.1702" y="414.2857" width="300" height="60.57143" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-954.1702 426.57143)" fill="black">
+          <tspan font-family="Helvetica" font-size="16" font-weight="700" fill="black" x="61.42578" y="15">rerun the best models</tspan>
+          <tspan font-family="Helvetica" font-size="14" font-weight="400" fill="black" x="34.09717" y="33">#95725::bash run_vom_best.sh […]</tspan>
+        </text>
+      </g>
+      <g id="Line_52">
+        <path d="M -679.586 377.4326 C -697.9949 386.9698 -720.621 398.6932 -741.9266 409.7324" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_59">
+        <path d="M -517.17017 54.07143 C -495.78617 80.42343 -440.9688 142.06971 -440.9688 200.77851 C -440.9688 200.77851 -440.9688 200.77851 -440.9688 280.2809 C -440.9688 325.0793 -428.29683 347.6153 -459.9768 379.2809 C -475.6074 394.8949 -563.0501 410.9389 -649.3753 423.60446" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_65">
+        <path d="M -1220.7339 59.85495 C -1214.3644 96.93984 -1204.9968 159.02737 -1204.9968 200.77851 C -1204.9968 200.77851 -1204.9968 200.77851 -1204.9968 280.2809 C -1204.9968 325.0793 -1217.9136 347.8385 -1185.996 379.2809 C -1167.3007 397.6935 -1065.8335 414.39045 -968.9919 426.7169" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_70">
+        <path d="M -963.397 377.2446 C -941.0768 386.98837 -913.4677 399.04076 -887.621 410.3238" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_82">
+        <rect x="-1259.4968" y="759.2857" width="300" height="36" fill="white"/>
+        <rect x="-1259.4968" y="759.2857" width="300" height="36" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-1254.4968 759.2857)" fill="black">
+          <tspan font-family="Helvetica" font-size="16" font-weight="700" fill="black" x="101.88281" y="15">plot results</tspan>
+          <tspan font-family="Helvetica" font-size="14" font-weight="400" fill="black" x="35.262695" y="33">#af62c::python3 plot_et_ass.py […]</tspan>
+        </text>
+      </g>
+      <g id="Line_83">
+        <path d="M -990.4064 635.8135 C -1016.4539 666.7337 -1059.1839 717.5936 -1087.9224 751.7142" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_92">
+        <path d="M -809.6424 720.6603 C -868.6862 731.8126 -943.1761 745.8962 -1004.3181 757.4471" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_95">
+        <path d="M -1328.8975 719.0407 C -1286.5568 730.2855 -1232.0226 744.80485 -1187.0948 756.7443" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_97">
+        <path d="M -1227.5798 59.85498 C -1233.8684 96.93988 -1242.9984 159.02739 -1242.9984 200.77851 C -1242.9984 200.77851 -1242.9984 200.77851 -1242.9984 617.7809 C -1242.9984 664.0503 -1185.8686 718.4806 -1141.9608 753.2028" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_100">
+        <rect x="-1121.1702" y="255.64286" width="300" height="47.857143" fill="white"/>
+        <rect x="-1121.1702" y="255.64286" width="300" height="47.857143" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-1116.1702 261.57143)" fill="black">
+          <tspan font-family="Helvetica" font-size="16" font-weight="700" fill="black" x="8.523438" y="15">select best 5% to determine bounds</tspan>
+          <tspan font-family="Helvetica" font-size="14" font-weight="400" fill="black" x="27.873047" y="33">#cadd3::python3 sel_sce_runs.py […]</tspan>
+        </text>
+      </g>
+      <g id="Line_101">
+        <path d="M -944.6051 218.8414 C -948.2595 227.19786 -952.6043 237.136 -956.7299 246.57167" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_109">
+        <path d="M -913.8664 144.5 C -917.2763 152.91315 -921.1177 162.39096 -924.6573 171.12697" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_136">
+        <path d="M -618.39704 646.85714 C -637.1037 657.5119 -657.716 669.25524 -675.4225 679.3406" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_138">
+        <path d="M -1224.1702 -14.5 C -1224.1702 -6.324094 -1224.1702 2.86016 -1224.1702 11.38964" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_140">
+        <path d="M -809.1702 474.85714 C -809.1702 490.84795 -809.1702 509.311 -809.1702 520.6668" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_142">
+        <ellipse cx="-1109.4968" cy="850.2857" rx="127.870077370388" ry="19.2857451023936" fill="white"/>
+        <text transform="translate(-1206.7927 841.7857)" fill="black">
+          <tspan font-family="Helvetica" font-size="14" font-weight="400" fill="black" x="0" y="14">#af62c:/img/evap_adelaide.png</tspan>
+        </text>
+      </g>
+      <g id="Line_143">
+        <path d="M -1109.4968 795.2857 C -1109.4968 803.1062 -1109.4968 812.375 -1109.4968 821.1032" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_145">
+        <path d="M -981.7654 303.5 C -985.514 311.95673 -989.7403 321.4885 -993.6296 330.26137" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_149">
+        <line x1="-845.4553" y1="549.4837" x2="-937.5956" y2="597.50834" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Canvas_2: Layer 2">
+      <title>Layer 2</title>
+      <g id="Graphic_37">
+        <ellipse cx="-809.1702" cy="530.5714" rx="184.770803057645" ry="19.2857451023937" fill="white"/>
+        <text transform="translate(-951.9866 522.0714)" fill="black">
+          <tspan font-family="Helvetica" font-size="14" font-style="italic" font-weight="400" fill="black" x="0" y="14">#95725:/data/VOM_output/AdelaideRiver/best</tspan>
+        </text>
+      </g>
+      <g id="Graphic_40">
+        <ellipse cx="-1369.1702" cy="-117.42857" rx="182.326951496366" ry="19.2857451023937" fill="white"/>
+        <text transform="translate(-1510.0315 -125.92857)" fill="black">
+          <tspan font-family="Helvetica" font-size="14" font-style="italic" font-weight="400" fill="black" x="0" y="14">/data/MaunaLoa/weekly_in_situ_co2_mlo.csv</tspan>
+        </text>
+      </g>
+      <g id="Graphic_44">
+        <ellipse cx="-1078.1702" cy="-117.42857" rx="89.9177462185701" ry="19.2857451023937" fill="white"/>
+        <text transform="translate(-1145.1042 -125.92857)" fill="black">
+          <tspan font-family="Helvetica" font-size="14" font-style="italic" font-weight="400" fill="black" x="0" y="14">/data/Silo/adelaide.txt</tspan>
+        </text>
+      </g>
+      <g id="Graphic_81">
+        <path d="M -803.9688 602.9344 C -709.9687 610.4659 -709.9687 622.67694 -803.9688 630.2085 C -897.9685 637.74005 -1050.3719 637.74005 -1144.3715 630.2085 C -1238.3716 622.67694 -1238.3716 610.4659 -1144.3715 602.9344 C -1050.3719 595.4028 -897.9685 595.4028 -803.9688 602.9344" fill="white"/>
+        <text transform="translate(-1161.7312 608.0714)" fill="black">
+          <tspan font-family="Helvetica" font-size="14" font-style="italic" font-weight="400" fill="black" x="0" y="14">#95725:/data/VOM_output/AdelaideRiver/best/results_daily1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_91">
+        <path d="M -567.5881 689.6487 C -484.79536 697.1802 -484.79536 709.3912 -567.5881 716.9228 C -650.3804 724.4543 -784.6132 724.4543 -867.4055 716.9228 C -950.1983 709.3912 -950.1983 697.1802 -867.4055 689.6487 C -784.6132 682.1171 -650.3804 682.1171 -567.5881 689.6487" fill="white"/>
+        <text transform="translate(-882.0994 694.7857)" fill="black">
+          <tspan font-family="Helvetica" font-size="14" font-style="italic" font-weight="400" fill="black" x="0" y="14">#4df05:/data/VOM_output/AdelaideRiver/processed/*</tspan>
+        </text>
+      </g>
+      <g id="Graphic_94">
+        <ellipse cx="-1391.1702" cy="702.5714" rx="119.577217439545" ry="19.2857451023936" fill="white"/>
+        <text transform="translate(-1485.3113 694.0714)" fill="black">
+          <tspan font-family="Helvetica" font-size="14" font-style="italic" font-weight="700" fill="black" x="0" y="14">/data/DINGO/Ea_adelaide.txt</tspan>
+        </text>
+      </g>
+      <g id="Graphic_21">
+        <path d="M -1063.9384 26.934384 C -975.4444 34.46592 -975.4444 46.67694 -1063.9384 54.20847 C -1152.432 61.740046 -1295.9083 61.740046 -1384.402 54.20847 C -1472.896 46.67694 -1472.896 34.46592 -1384.402 26.934384 C -1295.9083 19.402811 -1152.432 19.402811 -1063.9384 26.934384" fill="white"/>
+        <text transform="translate(-1400.4519 32.07143)" fill="black">
+          <tspan font-family="Helvetica" font-size="14" font-style="italic" font-weight="400" fill="black" x="0" y="14">#94b34:/data/VOM_input/AdelaideRiver/dailyweather.prn</tspan>
+        </text>
+      </g>
+      <g id="Graphic_27">
+        <ellipse cx="-839.1702" cy="40.57143" rx="140.46958480782" ry="19.2857451023937" fill="white"/>
+        <text transform="translate(-946.5457 32.07143)" fill="black">
+          <tspan font-family="Helvetica" font-size="14" font-style="italic" font-weight="400" fill="black" x="0" y="14">/work/AdelaideRiver/vom_namelist</tspan>
+        </text>
+      </g>
+      <g id="Graphic_99">
+        <path d="M -789.0137 185.93438 C -707.7409 193.46592 -707.7409 205.67694 -789.0137 213.20847 C -870.286 220.74005 -1002.0544 220.74005 -1083.3267 213.20847 C -1164.5994 205.67694 -1164.5994 193.46592 -1083.3267 185.93438 C -1002.0544 178.40281 -870.286 178.40281 -789.0137 185.93438" fill="white"/>
+        <text transform="translate(-1097.659 191.07143)" fill="black">
+          <tspan font-family="Helvetica" font-size="14" font-style="italic" font-weight="400" fill="black" x="0" y="14">#f859b:/data/VOM_output/AdelaideRiver/sce_out.txt</tspan>
+        </text>
+      </g>
+      <g id="Graphic_69">
+        <ellipse cx="-1006.1702" cy="358.57143" rx="170.641752160531" ry="19.2857451023937" fill="white"/>
+        <text transform="translate(-1137.6833 350.07143)" fill="black">
+          <tspan font-family="Helvetica" font-size="14" font-style="italic" font-weight="400" fill="black" x="0" y="14">#cadd3:/work/AdelaideRiver/bestruns/pars</tspan>
+        </text>
+      </g>
+      <g id="Graphic_50">
+        <ellipse cx="-643.1702" cy="358.57143" rx="174.042636501052" ry="19.2857451023937" fill="white"/>
+        <text transform="translate(-777.40405 350.07143)" fill="black">
+          <tspan font-family="Helvetica" font-size="14" font-style="italic" font-weight="400" fill="black" x="0" y="14">#bc349:/work/AdelaideRiver/bestruns/tmp/*</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
