@@ -26,7 +26,7 @@ To avoid conflicts in dependencies, we recommend creating a dedicated environmen
 
 We provide instructions based on conda below. If you use docker, we also provide a Dockerfile with [instructions for set up and use](README-docker.md). If you prefer to use something else, you will need to ensure that `git`, `git-lfs`, `curl`, and `node` are installed in your environment, but you should be able to pip install the requirements.txt file for the rest.
 
-And, if you do not wish to set up an environment on your computer, you can [follow these instructions to use Renkulab](README-renkulab.md); or you can run the tutorial on [MyBinder](https://mybinder.org/v2/gh/SwissDataScienceCenter/r10e-ds-py/binder).
+And, if you do not wish to set up an environment on your computer, you can [follow these instructions to use Renkulab](README-renkulab.md); or you can run the tutorial on [Code Ocean](https://codeocean.com/capsule/b6a697f0-316d-4c6b-96f7-de1fedd073c2/tree?ID=7b332d2e7b804c7394b7703e9d5f1f6c) or [MyBinder](https://mybinder.org/v2/gh/SwissDataScienceCenter/r10e-ds-py/binder).
 
 ## Step 1: Create Environment
 
