@@ -96,7 +96,7 @@ widgetsnbextension==3.4.2
 ansiwrap==0.8.4
 colorama==0.4.1
 future==0.17.1
-nbdime==1.0.6
+nbdime==1.1.1
 papermill==1.0.1
 tenacity==5.0.4
 textwrap3==0.9.2
